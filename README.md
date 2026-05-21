@@ -1,4 +1,4 @@
-# Predicting Systemic Biological Failure in Ultramarathons 🏃‍♂️📊
+# Predicting Systemic Biological Failure in Ultramarathons 
 
 ## Overview
 This repository contains the Python machine learning pipeline and final engineering report for predicting Did Not Finish (DNF) outcomes in the Western States 100-Mile Endurance Run (WSER). 
